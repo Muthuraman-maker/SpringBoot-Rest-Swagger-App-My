@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>Swagger-Demo-App</name>
-	<description>Swagger-Demo-App</description>
+	<description>Swagger-Demo-Application</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
